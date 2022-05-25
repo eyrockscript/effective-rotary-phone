@@ -1,7 +1,5 @@
 # apple pay button
 
-Project based on [apple-pay button-react](https://github.com/brascene/rn-apple-pay-button).
-
 ## Available Scripts
 
 In the project directory, you can run:
